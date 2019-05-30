@@ -1,0 +1,129 @@
+/* Name: Gia Villanova
+*  Date: May 30, 2019
+*  Anne Frank Biography */
+
+* {
+    margin: 0;
+    padding: 0;}
+
+body {
+    width: 95%;
+    margin: auto; 
+    font-family: sans-serif; 
+    font-size: 125%;
+    font-weight: 200;
+    }
+
+h1 {
+    font-family: sans-serif; 
+    font-size: 200%;
+    font-weight: 100;
+    padding: 5px;
+    }
+
+h2 {
+    font-family: sans-serif; 
+    font-size: 200%;
+    font-weight: 100;
+    padding: 5px;
+    text-align: left;
+    border-bottom-color: lightpink;
+    border-bottom-style: dotted; 
+    }
+
+h4 {
+    font-family: sans-serif; 
+    font-size: 150%;
+    text-align: left;
+    font-weight: 400;
+    padding: 10px;
+    color: darkgrey; }
+
+header {
+    font-family: sans-serif; 
+    font-size: 200%;
+    text-align: center;
+    font-weight: 200;
+    padding: 10px;
+    background-color: lavenderblush;
+   }
+/* I sized certain texts to add aethstetic to my webpage, as well as identify the inmportance of each text */
+
+
+#sidebarA {
+    width: 15%; 
+    height: 43em;
+    padding: 2em; 
+    text-align: left;
+    float: left;
+    background-color: aliceblue;
+}
+
+main {
+    /* height: 100em; */
+    width: 45%;
+    text-align: left;
+    padding: 2em;
+    float: left; 
+    text-align: left;
+   }
+
+#sidebarB {
+    width: 20%;
+    height: auto;
+    padding: 2em;
+    float: right;
+    background-color: aliceblue
+   }
+
+img { margin: 1em;
+    padding: .5em;
+    border: 2px;
+    border-style: dotted;
+    border-color: lightpink;}
+
+#one {
+    width: 200px;
+    height: auto;
+}
+
+#desk {
+    width: 150px; 
+    height: auto}
+
+#two {
+    width: 200px; 
+    height: auto;}
+
+
+#grave {
+    width: 150px; 
+    height: auto;}
+
+#movie {
+    border-color: lightsteelblue;
+    border-width: thick;
+}
+
+/* Information for how I want my images to show up on the webpage */
+
+footer {
+    clear:both ;
+    margin: 1em;
+    }
+
+a:link {
+    color: lightsteelblue; }
+
+a:visited { 
+    color: lightpink;}
+
+a:hover, a:focus {
+    background-color: floralwhite;
+    color: black; }
+
+a:active {
+    color: aliceblue;}
+/* I have added features to my links to make the webpage more appealing for users */
+
+
